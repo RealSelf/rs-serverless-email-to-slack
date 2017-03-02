@@ -1,3 +1,11 @@
+### Ignore serverless stuff
+.serverless
+####
+# vendored for serverless requirements
+vendored
+local_vendored
+###
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
